@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-srinivas&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-srinivas" /> </p>
 
-- 🌱 I’m currently learning **Aws Pandas**
+- 🌱 I’m currently learning **Aws**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rakeshsrinivas](https://www.linkedin.com/in/rakeshsrinivas)
 
